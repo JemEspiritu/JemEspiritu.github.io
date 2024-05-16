@@ -1,1 +1,82 @@
 THIS IS MY GITHUBPAGE AND THIS INCLUDE ALL THE ACTIVITIES https://jemespiritu.github.io/
+
+
+<html lang="en">
+
+<head>
+  <title>@Jem Espiritu</title>
+  <link rel="icon" href="https://raw.githubusercontent.com/earthtoyash/earthtoyash.github.io/main/me.jpg">
+  <meta charset="UTF-8">
+  <meta name="home" content="Just some stuff!">
+  <link rel="stylesheet" href="Project.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- fontawesome kit -->
+  <script src="https://kit.fontawesome.com/12855d893b.js" crossorigin="anonymous"></script>
+  <div class="avatar">
+    <background></background>
+    <title>@earthtoyash</title>
+    <link rel="icon"
+      href="https://raw.githubusercontent.com/earthtoyash/earthtoyash.github.io/main/index_files/Anonymous.png">
+  </div>
+</head>
+
+<body>
+  <div class="intro">
+    <div class="text-intro">
+      <h2>John Edward Miles D. Espiritu </h2>
+    </div>
+    <div class="image-intro"> <img src="https://cdn.discordapp.com/attachments/752766248177238090/1240679814612910080/Jempott.jpg?ex=6647709e&is=66461f1e&hm=313baff3d01a5e77318aa001ee126847831ef2bd142ea5b81824a7605e12462d&" alt="It's Me!">
+    </div>
+    </div>
+  </div>
+  <section>
+    <p>I am John Edward Miles D. Espiritu, I’m a student who is currently studying at Technological Institute of the Philippines.</p>
+    <p> You can check out my repository at github below!</p>
+  </section>
+
+  <div class="centre">
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA1" target="_blank">HOA1</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA2" target="_blank"><i></i>HOA2</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA3" target="_blank"><i></i>HOA3</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA4p1" target="_blank"><i></i>HOA4</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOAp5" target="_blank">HOA5</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/Espiritu_PrelimExam" target="_blank">Prelim Exam</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA6p1" target="_blank">HOA6</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA7p1" target="_blank">HOA7</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA8.1" target="_blank">HOA8</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA9.1" target="_blank">HOA9</a></button>
+    
+    <button class="btn"><a href="" target="_blank">HOA10</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA11.1" target="_blank">HOA11</a></button>
+    
+    <button class="btn"><a href="" target="_blank">HOA12</a></button>
+
+    <button class="btn"><a href="https://github.com/JemEspiritu/CPE_MIDEXAM_ESPIRITU" target="_blank">Midterm Exam</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA13.1" target="_blank">HOA13</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA14.1" target="_blank">HOA14</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu/HOA15.1" target="_blank">HOA15</a></button>
+    
+    <button class="btn"><a href="https://github.com/JemEspiritu" target="_blank">github</a></button>
+
+    <button class="btn"><a href="https://docs.google.com/document/d/1faU8GRfNIHdVwb6WpMFzKZvVlMQOcjwpGa_QNbhZUBU/edit?usp=sharing" target="_blank">Reflections & Learnings</a></button>
+
+
+  </div>
+
+</body>
+
+</html>
